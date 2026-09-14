@@ -1,0 +1,5 @@
+comparison,n_years,pearson_r
+Valence: Warriner vs NRC lemma,36,0.8576980575712988
+Arousal: Warriner vs NRC lemma,36,0.7653863868675294
+Valence: NRC lemma vs NRC surface,36,0.9920138263971953
+Arousal: NRC lemma vs NRC surface,36,0.9894146623810313

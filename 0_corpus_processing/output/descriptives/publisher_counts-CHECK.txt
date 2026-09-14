@@ -1,0 +1,52 @@
+Publisher Counts:
+publisher
+Tribune Publishing Company, LLC                                         102
+Gannett Media Corp                                                       57
+New York Times Company                                                   48
+Newsday LLC                                                              32
+Atlanta Journal Constitution, LLC                                        24
+Halifax Media Group                                                      23
+GateHouse Media, Inc.                                                    21
+Business Wire                                                            18
+Pulitzer, Inc.                                                           16
+BridgeTower Media Holding Company                                        15
+Pantagraph Publishing Co.                                                14
+Times Publishing Company                                                 13
+PR Newswire Association LLC                                              11
+Daily Herald                                                             11
+Philadelphia Media Network (Newspapers) LLC                              10
+Los Angeles Times Communications LLC                                      9
+The Salt Lake Tribune                                                     8
+WP Company LLC d/b/a The Washington Post                                  8
+Journal Sentinel Inc.                                                     7
+Cowles Publishing Company, d/b/a The Spokesman-Review                     6
+Freedom Newspapers, Inc.                                                  6
+The Venetoulis Institute for Local Journalism                             5
+Las Vegas Review - Journal                                                5
+Portland Newspapers                                                       5
+NPR                                                                       4
+USA Today, a division of Gannett Satellite Information Network, Inc.      4
+LNP Media Group Inc.                                                      4
+Madison Newspapers, Inc.                                                  3
+Bangor Daily News                                                         3
+Charleston Newspapers                                                     3
+The McClatchy Company                                                     3
+Dow Jones & Company Inc.                                                  3
+Hampton Roads Chamber of Commerce                                         2
+Clinton Reilly Communications, Inc.                                       2
+Baltimore Sun                                                             2
+Boston Globe Media Partners, LLC                                          2
+Yakima Herald Republic                                                    2
+Texas Monthly, a Division of Emmis Publishing, LP                         1
+Afro - American Company of Baltimore City                                 1
+Columbian Publishing Company                                              1
+ImpreMedia Operating Company, LLC                                         1
+Village Voice Media Holdings LLC                                          1
+Jewish Exponent                                                           1
+Santa Fe New Mexican                                                      1
+New York Amsterdam News                                                   1
+Los Angeles Newspaper Group                                               1
+Los Angeles Sentinel                                                      1
+Star Tribune Media Company LLC                                            1
+Uloop, Inc.                                                               1
+Lee Enterprises, Inc.                                                     1

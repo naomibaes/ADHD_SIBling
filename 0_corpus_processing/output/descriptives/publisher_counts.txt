@@ -1,0 +1,205 @@
+Publisher Counts:
+publisher
+Gannett Media Corp                                                                                                                                   16480
+Tribune Content Agency LLC                                                                                                                            8148
+Tribune Publishing Company, LLC                                                                                                                       6514
+Targeted News Service                                                                                                                                 5490
+PR Newswire Association LLC                                                                                                                           5216
+Uloop, Inc.                                                                                                                                           3990
+New York Times Company                                                                                                                                3590
+WP Company LLC d/b/a The Washington Post                                                                                                              2880
+Business Wire                                                                                                                                         1926
+Halifax Media Group                                                                                                                                   1685
+Dow Jones & Company Inc.                                                                                                                              1137
+Boston Globe Media Partners, LLC                                                                                                                      1117
+Philadelphia Media Network (Newspapers) LLC                                                                                                           1108
+Daily Herald                                                                                                                                          1096
+Newsday LLC                                                                                                                                           1022
+Atlanta Journal Constitution, LLC                                                                                                                     1011
+Charleston Newspapers                                                                                                                                  979
+USA Today, a division of Gannett Satellite Information Network, Inc.                                                                                   957
+Los Angeles Newspaper Group                                                                                                                            950
+Los Angeles Times Communications LLC                                                                                                                   919
+Times Publishing Company                                                                                                                               811
+Pulitzer, Inc.                                                                                                                                         808
+The Salt Lake Tribune                                                                                                                                  634
+Telegraph Herald                                                                                                                                       617
+Pittsburgh Post - Gazette                                                                                                                              595
+St. Joseph News - Press                                                                                                                                538
+Bay Area News Group                                                                                                                                    520
+LNP Media Group Inc.                                                                                                                                   466
+GateHouse Media, Inc.                                                                                                                                  438
+Star Tribune Media Company LLC                                                                                                                         431
+New England Newspapers, Inc.                                                                                                                           406
+Pantagraph Publishing Co.                                                                                                                              378
+Madison Newspapers, Inc.                                                                                                                               373
+CNN Newsource Sales, Inc.                                                                                                                              352
+Cowles Publishing Company, d/b/a The Spokesman-Review                                                                                                  344
+Journal Sentinel Inc.                                                                                                                                  342
+Deseret Digital Media                                                                                                                                  337
+Insider, Inc.                                                                                                                                          331
+Tribune-Review Publishing Company                                                                                                                      329
+South Bend Tribune Corporation                                                                                                                         322
+The Citizens' Voice                                                                                                                                    299
+Bangor Daily News                                                                                                                                      296
+The Lowell Sun                                                                                                                                         292
+Portland Newspapers                                                                                                                                    292
+U.S. Newswire                                                                                                                                          267
+Columbian Publishing Company                                                                                                                           260
+Republican & Herald                                                                                                                                    246
+The Times-Tribune                                                                                                                                      242
+Santa Fe New Mexican                                                                                                                                   240
+Las Vegas Review - Journal                                                                                                                             226
+Freedom Newspapers, Inc.                                                                                                                               223
+Sonoma Media Investments, LLC                                                                                                                          217
+Bismarck Tribune                                                                                                                                       198
+POLITICO LLC                                                                                                                                           190
+Sun Journal                                                                                                                                            183
+Black Press Group Ltd.                                                                                                                                 177
+The Lawrence Journal World                                                                                                                             175
+Albuquerque Publishing Company                                                                                                                         173
+The Post and Courier                                                                                                                                   163
+The Newsweek/Daily Beast Company LLC                                                                                                                   159
+Morning Sentinel                                                                                                                                       152
+New Haven Register                                                                                                                                     147
+NPR                                                                                                                                                    143
+Lee Enterprises, Inc.                                                                                                                                  137
+Concord Monitor/Sunday Monitor                                                                                                                         133
+Real Times, Inc.                                                                                                                                       127
+The Blade                                                                                                                                              125
+Philadelphia Tribune                                                                                                                                   124
+News Gazette                                                                                                                                           123
+Prairie Mountain Media                                                                                                                                 122
+Kennebec Journal                                                                                                                                       121
+Valley News                                                                                                                                            118
+Standard-Speaker                                                                                                                                       113
+Ogden Newspapers, Inc.                                                                                                                                 112
+St Paul Pioneer Press                                                                                                                                  110
+BridgeTower Media Holding Company                                                                                                                      108
+Sheboygan Press                                                                                                                                        102
+MinnPost                                                                                                                                                97
+Clarity Media Group, Inc.                                                                                                                               91
+Wyoming Tribune-Eagle                                                                                                                                   85
+Reason Foundation                                                                                                                                       74
+Union Leader Corporation                                                                                                                                66
+Honolulu Star - Bulletin                                                                                                                                59
+Owensboro Messenger Inquirer                                                                                                                            54
+Yakima Herald Republic                                                                                                                                  54
+ProPublica                                                                                                                                              50
+Columbia Daily Tribune                                                                                                                                  50
+Cox Newspapers, Inc.                                                                                                                                    50
+Chattanooga Times Free Press                                                                                                                            49
+The Conversation US, Inc.                                                                                                                               49
+Oahu Publications Inc.                                                                                                                                  48
+Crain Communications, Incorporated                                                                                                                      48
+The Christian Science Publishing Society (d/b/a "The Christian Science Monitor"), trusteeship under the laws of the Commonwealth of Massachusetts       43
+The Press of Atlantic City                                                                                                                              42
+Buck County Courier Times                                                                                                                               42
+Big Sky Publishing LLC                                                                                                                                  41
+Nashville Banner                                                                                                                                        40
+Los Angeles Sentinel                                                                                                                                    38
+Voice Media Group                                                                                                                                       38
+The Lima News                                                                                                                                           38
+San Francisco Media Company                                                                                                                             37
+Sample News Group                                                                                                                                       36
+The York Dispatch                                                                                                                                       36
+Billings Gazette                                                                                                                                        36
+The Texas Tribune                                                                                                                                       34
+Afro - American Company of Baltimore City                                                                                                               34
+New York Observer, LP                                                                                                                                   33
+Washington Informer                                                                                                                                     32
+Idaho State Journal                                                                                                                                     32
+The Jerusalem Post Ltd.                                                                                                                                 31
+Jewish Exponent                                                                                                                                         30
+Newsweek Publishing LLC                                                                                                                                 29
+Missoulian                                                                                                                                              28
+Call and Post                                                                                                                                           28
+Gemini Publications                                                                                                                                     21
+New York Amsterdam News                                                                                                                                 21
+IBJ Corporation                                                                                                                                         21
+Daily News                                                                                                                                              21
+ImpreMedia Operating Company, LLC                                                                                                                       20
+Milwaukee Courier                                                                                                                                       18
+Neotrope                                                                                                                                                18
+Global Network Content Services LLC, DBA Noticias Financieras LLC                                                                                       16
+The Janesville Gazette                                                                                                                                  16
+The American Israelite                                                                                                                                  16
+Bay State Banner                                                                                                                                        15
+San Diego Business Journal                                                                                                                              15
+Baltimore Sun                                                                                                                                           14
+Texas Monthly, a Division of Emmis Publishing, LP                                                                                                       14
+The McClatchy Company                                                                                                                                   14
+The Forward Association, Inc.                                                                                                                           13
+BusinessWest                                                                                                                                            12
+Notimex                                                                                                                                                 11
+Westfair Communications                                                                                                                                 11
+Central New York Business Journal                                                                                                                       11
+Vox Media                                                                                                                                               11
+Environment News Service                                                                                                                                10
+CBJ, L. P.                                                                                                                                              10
+The Jewish Advocate                                                                                                                                     10
+The Salina Journal                                                                                                                                      10
+Desert Publication, Inc. and Sharon Apfelbaum                                                                                                            9
+Apollo Global Managment                                                                                                                                  9
+Fort Worth Report                                                                                                                                        8
+Northwest Business Press Inc.                                                                                                                            8
+La Prensa San Antonio                                                                                                                                    8
+Columbia Broadcasting System                                                                                                                             8
+State Journal Corporation                                                                                                                                8
+BizWest Media LLC                                                                                                                                        7
+AOL Inc.                                                                                                                                                 7
+Reading Eagle Company                                                                                                                                    6
+Real News Project Inc., dba WhoWhatWhy                                                                                                                   6
+Village Voice Media Holdings LLC                                                                                                                         5
+La Voz Publishing Company dba as La Voz                                                                                                                  5
+CALmatters                                                                                                                                               5
+Las Vegas Sun                                                                                                                                            5
+Federal Information & News Dispatch, LLC                                                                                                                 5
+Beacon Media Inc.                                                                                                                                        5
+Indian Country Today                                                                                                                                     4
+Greater Lansing Business Monthly                                                                                                                         4
+Business-North Carolina                                                                                                                                  4
+Reflejos                                                                                                                                                 4
+The Marshall Project                                                                                                                                     4
+Lost Light Projects Inc. (d/b/a InsideClimate News)                                                                                                      4
+Schneps Media                                                                                                                                            3
+Trend Magazine, Inc.                                                                                                                                     3
+Enterprise Business Newspaper Inc.                                                                                                                       3
+Grimes Publications                                                                                                                                      3
+Grand Forks Herald Inc.                                                                                                                                  3
+Amelimedia Communications, LLC                                                                                                                           3
+MIDJersey Chamber of Commerce                                                                                                                            3
+Business Publications Incorporated                                                                                                                       3
+Muslim Journal                                                                                                                                           2
+Smart Business Network                                                                                                                                   2
+Journal Inc                                                                                                                                              2
+El Chicano Newspaper                                                                                                                                     2
+Quincy Herald Whig                                                                                                                                       2
+Curtis Magazine Group, Inc.                                                                                                                              2
+Alameda Publishing Corp.                                                                                                                                 2
+Hola - Publications America Inc.                                                                                                                         2
+PacificBasin Communications, formlerly Hawaii Business Publishing Corp.                                                                                  2
+New York Public Radio                                                                                                                                    2
+La Crosse Tribune                                                                                                                                        2
+Boutin-McQuiston, Inc.                                                                                                                                   2
+Public Radio International (PRI)                                                                                                                         2
+New Jersey Business & Industry Association                                                                                                               2
+American City Business Journals                                                                                                                          2
+Lane Communications Group, Inc.                                                                                                                          2
+Public Media NJ, Inc.                                                                                                                                    1
+Louisville Magazine Inc.                                                                                                                                 1
+MCC Magazines, LLC d/b/a Alaska Magazine                                                                                                                 1
+La Prensa Newspaper                                                                                                                                      1
+Project Syndicate                                                                                                                                        1
+Ship Island Holding Company                                                                                                                              1
+Acción Latina                                                                                                                                            1
+Lafayette Business Digest                                                                                                                                1
+Telex Communications, Inc.                                                                                                                               1
+Weekly Standard                                                                                                                                          1
+Business Publications Inc.                                                                                                                               1
+EFE News Services, Inc.                                                                                                                                  1
+SourceMedia dba Arizent                                                                                                                                  1
+Las Vegas Business Press                                                                                                                                 1
+High Country News                                                                                                                                        1
+La Prensa América, Inc.                                                                                                                                  1
+Millyard Communications, Inc                                                                                                                             1

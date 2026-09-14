@@ -1,0 +1,2 @@
+sentence_len_min,sentence_len_med,sentence_len_max,sentence_len_mean,sentence_len_sd,sentence_word_min,sentence_word_med,sentence_word_max,sentence_word_mean,article_len_min,article_len_med,article_len_max,article_len_mean,article_word_len_min,article_word_len_med,article_word_len_max,article_word_len_mean,n_sentences,n_articles
+2,28.0,2539,32.972672132880916,30.307296385400267,2,24.0,1628,27.203819941749252,10,932.0,12421,1225.5530745052051,9,796.0,53848,1262.1083406226871,104033,45312

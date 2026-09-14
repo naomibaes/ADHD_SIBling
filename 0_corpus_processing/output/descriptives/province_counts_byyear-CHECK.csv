@@ -1,0 +1,11 @@
+year,unique_count,province_list
+1990,8,"['DC', 'FL', 'IL', 'MN', 'NY', 'New York', 'PA', 'VA']"
+1991,8,"['DC', 'FL', 'IL', 'MD', 'MN', 'NY', 'New York', 'PA']"
+1992,11,"['CA', 'CO', 'DC', 'FL', 'IL', 'MN', 'NV', 'NY', 'New York', 'PA', 'VA']"
+1993,10,"['CA', 'CO', 'DC', 'IL', 'MD', 'ME', 'NV', 'NY', 'New York', 'VA']"
+1994,10,"['CA', 'FL', 'IL', 'MD', 'MN', 'NY', 'New York', 'PA', 'UT', 'VA']"
+1995,15,"['CA', 'CO', 'GA', 'IL', 'MA', 'ME', 'MN', 'MO', 'NJ', 'NY', 'New York', 'PA', 'UT', 'VA', 'WI']"
+1996,17,"['CA', 'CO', 'DC', 'FL', 'GA', 'IL', 'MD', 'ME', 'MO', 'NJ', 'NV', 'NY', 'New York', 'PA', 'VA', 'WA', 'WI']"
+1997,14,"['CA', 'CO', 'FL', 'GA', 'IL', 'ME', 'MO', 'NY', 'PA', 'TX', 'UT', 'VA', 'WA', 'WI']"
+1998,16,"['CA', 'DC', 'FL', 'GA', 'IL', 'MD', 'ME', 'MO', 'NE', 'NY', 'New York', 'PA', 'UT', 'VA', 'WA', 'WV']"
+1999,15,"['CA', 'DC', 'FL', 'GA', 'IL', 'ME', 'MO', 'NJ', 'NM', 'NY', 'New York', 'PA', 'VA', 'WI', 'WV']"

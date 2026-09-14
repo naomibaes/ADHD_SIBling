@@ -1,0 +1,44 @@
+year,unique_count,source_Type_list
+1980,1,['Newspapers']
+1983,1,['Newspapers']
+1985,1,['Newspapers']
+1986,1,['Newspapers']
+1987,1,['Newspapers']
+1988,1,['Newspapers']
+1989,1,['Newspapers']
+1990,1,['Newspapers']
+1991,1,['Newspapers']
+1992,1,['Newspapers']
+1993,2,"['Newspapers', 'Wire Feeds']"
+1994,1,['Newspapers']
+1995,1,['Newspapers']
+1996,3,"['Blogs, Podcasts, & Websites', 'Newspapers', 'Wire Feeds']"
+1997,3,"['Blogs, Podcasts, & Websites', 'Newspapers', 'Wire Feeds']"
+1998,4,"['Audio & Video Works', 'Blogs, Podcasts, & Websites', 'Newspapers', 'Wire Feeds']"
+1999,4,"['Blogs, Podcasts, & Websites', 'Newspapers', 'Trade Journals', 'Wire Feeds']"
+2000,6,"['Audio & Video Works', 'Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Trade Journals', 'Wire Feeds']"
+2001,6,"['Audio & Video Works', 'Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Trade Journals', 'Wire Feeds']"
+2002,5,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Trade Journals', 'Wire Feeds']"
+2003,6,"['Audio & Video Works', 'Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Trade Journals', 'Wire Feeds']"
+2004,6,"['Audio & Video Works', 'Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Trade Journals', 'Wire Feeds']"
+2005,4,"['Blogs, Podcasts, & Websites', 'Newspapers', 'Trade Journals', 'Wire Feeds']"
+2006,5,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Trade Journals', 'Wire Feeds']"
+2007,5,"['Blogs, Podcasts, & Websites', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2008,6,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2009,6,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2010,7,"['Audio & Video Works', 'Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2011,5,"['Blogs, Podcasts, & Websites', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2012,7,"['Audio & Video Works', 'Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2013,6,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2014,7,"['Audio & Video Works', 'Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2015,6,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2016,6,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2017,6,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2018,7,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Other Sources', 'Reports', 'Trade Journals', 'Wire Feeds']"
+2019,6,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2020,6,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Reports', 'Trade Journals', 'Wire Feeds']"
+2021,6,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Other Sources', 'Trade Journals', 'Wire Feeds']"
+2022,6,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Reports', 'Trade Journals', 'Wire Feeds']"
+2023,5,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Trade Journals', 'Wire Feeds']"
+2024,5,"['Blogs, Podcasts, & Websites', 'Magazines', 'Newspapers', 'Trade Journals', 'Wire Feeds']"
+2025,4,"['Blogs, Podcasts, & Websites', 'Newspapers', 'Trade Journals', 'Wire Feeds']"

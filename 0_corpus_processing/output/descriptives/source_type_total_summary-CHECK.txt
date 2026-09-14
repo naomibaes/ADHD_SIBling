@@ -1,0 +1,9 @@
+Total unique source types: 6
+
+Source type counts:
+Blogs, Podcasts, & Websites: 6
+Magazines: 1
+Newspapers: 480
+Other Sources: 4
+Trade Journals: 3
+Wire Feeds: 30
