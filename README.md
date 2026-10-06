@@ -1,6 +1,6 @@
 ## Computational environment
 
-**Note:** The majority of analyses — that is, the Python scripts outside the `helpers/` folder—were run in ProQuest TDM Studio using the U.S. Newsstream corpus. Export restrictions therefore apply.
+**Note:** The majority of analyses were run in ProQuest TDM Studio using the U.S. Newsstream corpus. Export restrictions therefore apply.
 
 The CPU-based analyses were run on an 8-vCPU Intel Xeon Platinum 8259CL @ 2.50 GHz system (4 physical cores / 8 threads; approximately 30 GB RAM). Transformer-based models were run on a GPU-backed Amazon SageMaker instance provisioned through TDM Studio, using an NVIDIA Tesla T4 GPU with approximately 16 GB VRAM (around 15 GiB usable).
 
