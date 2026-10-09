@@ -38,3 +38,7 @@ Run the analyses in the following order:
 4. `step3_compute-complementary-indices.ipynb`
 5. `step4_plot_data.ipynb`
 6. Relevant R scripts in `statistical_analyses/`
+
+## Paper:
+
+Pietsch, N., Baes, N., & Haslam, N. (2026). Shifting focus: Changing representations of ADHD in US news media. SSM-Mental Health, 100710. https://www.sciencedirect.com/science/article/pii/S2666560326001258
